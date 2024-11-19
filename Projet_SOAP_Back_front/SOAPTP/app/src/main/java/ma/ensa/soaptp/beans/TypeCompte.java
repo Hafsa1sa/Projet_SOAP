@@ -1,4 +1,6 @@
 package ma.ensa.soaptp.beans;
 
-public class TypeCompte {
+public enum TypeCompte {
+    COURANT,
+    EPARGNE
 }

@@ -40,4 +40,10 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+
+    implementation ("com.google.code.ksoap2-android:ksoap2-android:3.6.4")
+    implementation (libs.kotlinx.coroutines.android)
+    implementation (libs.material.v1100)
+
+
 }

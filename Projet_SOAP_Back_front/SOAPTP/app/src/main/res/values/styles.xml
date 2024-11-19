@@ -1,0 +1,8 @@
+<resources>
+    <!-- Style personnalisé pour les boutons de dialog -->
+    <style name="DialogButtonStyle">
+        <item name="android:backgroundTint">#f8dca5</item> <!-- Fond personnalisé -->
+        <item name="android:textColor">#212121</item> <!-- Texte du bouton -->
+        <item name="android:textSize">16sp</item> <!-- Taille du texte -->
+    </style>
+</resources>
